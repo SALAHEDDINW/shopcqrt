@@ -1,0 +1,28 @@
+.card-width{
+    width: 20rem;
+}
+.card-width-search{
+    width: 14rem;
+}
+.img-card{
+    height: 160px;
+    width: 80%;
+}
+.img-card-search{
+    height: 100px;
+    width: 100%;
+}
+
+.card-text{
+    font-size: 13px;
+}
+
+.productDetails{
+    width: 300px;
+    height: 300px;
+}
+
+.img-panier{
+    width: 50px;
+    height: 50px;
+}
